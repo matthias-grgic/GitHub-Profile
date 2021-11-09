@@ -1,7 +1,7 @@
 # Hi there 👋
 
-🔭 Im currently learning web development with help from [Neue Fische GmbH](https://github.com/neuefische).
-🌱 Working hard on my _readme.md_
+- 🔭 Im currently learning web development with help from [Neue Fische GmbH](https://github.com/neuefische).
+- 🌱 Working hard on my _readme.md_
 
 
 
