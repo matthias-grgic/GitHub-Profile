@@ -1,9 +1,10 @@
 # Hi there 👋
 
-🔭 Im currently learning web development with help from [Neue Fische GmbH](https://github.com/neuefische).
+🔭 Im currently learning web development with help from [Neue Fische GmbH](https://github.com/neuefische). 
+
 🌱 Working hard on my _readme.md_
 
-[Website](https://personal-website-beige-one.vercel.app/)
+[>>> WEBSITE](https://personal-website-beige-one.vercel.app/)
 
 
 
